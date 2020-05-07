@@ -13,7 +13,21 @@ if keyboard_check_pressed(ord("R")){room_restart();}
 	key_space_held = keyboard_check(vk_space);
 	
 	var move = key_right - key_left;
-
+	
+	//animation state
+	//if !go {
+	//	if key_left {
+	//		image_xscale = -1;
+	//		image_speed = 30;
+	//	}else if key_right {
+	//		image_xscale = 1;
+	//		image_speed = 30;
+	//	}else {
+	//		image_speed = 0;
+	//		image_index = 1;
+	//	}
+	//}
+	
 	//Movement
 	if !go {hsp = move * walksp;}
 	vsp = vsp + grv;
@@ -22,10 +36,19 @@ if keyboard_check_pressed(ord("R")){room_restart();}
 	vsp = vsp + grv;
 
 //Check if o2 is collected
-if haveO2 {
-	jmpstat = o2jmp;
-}else jmpstat = jmp;
+//if haveO2 {
+//	jmpstat = o2jmp;
+//}else jmpstat = jmp;
 
+//Check if hit by spikes
+if spikeHit {
+	haveO2 = false;
+	jmpstat = spikejmp;
+}else {
+	if haveO2 {
+	jmpstat = o2jmp;
+	}else jmpstat = jmp;
+}
 
 //JUMPING//
 //Gives a few frames that you can jump after you leave the ground
@@ -75,16 +98,18 @@ if haveO2 {
 	y = y + vsp;
 	if go {
 	
-		if !stopped {
-			//Speed Zone Check
-			if zoneUsed {
-				x = x + spdZone;
-				if zoneCheck {
-					zoneCheck = false;
-					alarm_set(0,60);
-				}
-			}else x = x + hsp; //Constant forward
-		}
+		if !spikeHit {
+			if !stopped {
+				//Speed Zone Check
+				if zoneUsed {
+					x = x + spdZone;
+					if zoneCheck {
+						zoneCheck = false;
+						alarm_set(0,60);
+					}
+				}else x = x + hsp; //Constant forward
+			}
+		}else x = x + spikeSpd; //Speed after hitting spikes
 	}
 //}
 

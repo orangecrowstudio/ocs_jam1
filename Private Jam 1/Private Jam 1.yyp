@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "1487907e-4efb-4a1b-8ef9-248737b2e824",
+            "Value": {
+                "id": "f7a33cd1-e646-45be-a5bf-86de07221e69",
+                "resourcePath": "sprites\\spr_spikes\\spr_spikes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "14f66f88-942e-4056-9809-d6cdb71032d4",
             "Value": {
                 "id": "1c18e903-5333-4070-9d33-e8c7857d38a7",
@@ -372,6 +380,14 @@
                 "id": "d38d2518-ba4d-43b3-bcf4-0843b93ed923",
                 "resourcePath": "views\\34a0231e-0514-44fa-a4a2-93278b495312.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3605c9ad-c2ae-4239-aca1-212d87f522fa",
+            "Value": {
+                "id": "f764730f-b418-4f69-aa51-4b8a1672ca38",
+                "resourcePath": "sprites\\spr_airPump\\spr_airPump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -671,6 +687,14 @@
             }
         },
         {
+            "Key": "56cb0cd9-196a-423a-b34e-524ad65dd614",
+            "Value": {
+                "id": "d5425824-5042-4887-9afc-a7a8f92a569c",
+                "resourcePath": "objects\\obj_patch\\obj_patch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57e69e0f-3129-4ff8-8e38-e549b2a07da5",
             "Value": {
                 "id": "f31cd0ce-527f-47b3-bb12-9f6d94325247",
@@ -791,11 +815,27 @@
             }
         },
         {
+            "Key": "63adca6a-0404-4125-af29-f36214d34ecc",
+            "Value": {
+                "id": "bba392e6-fa05-4188-9de4-c32dc45363c5",
+                "resourcePath": "objects\\obj_spikes\\obj_spikes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6462f47c-8c24-455c-be1f-fca91b846c69",
             "Value": {
                 "id": "2403bc71-f717-46cd-b1fa-5417be64f277",
                 "resourcePath": "scripts\\EaseOutCubic\\EaseOutCubic.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "658db15a-bc46-4d48-b865-f04de91ec7fc",
+            "Value": {
+                "id": "29a41862-fc76-4eb8-8250-c185f4c60429",
+                "resourcePath": "objects\\obj_tirePressure\\obj_tirePressure.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1687,6 +1727,14 @@
             }
         },
         {
+            "Key": "d53d46a0-16e2-4941-aa43-d11c8fe9ca20",
+            "Value": {
+                "id": "add9e2a6-0b5c-4f00-b210-e53a493e4e85",
+                "resourcePath": "sprites\\spr_tirePressure\\spr_tirePressure.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d7461f33-0275-4a99-aa03-dfbfa56491e6",
             "Value": {
                 "id": "138b2035-0c10-44d1-b210-2d09e2a5c7d8",
@@ -1812,6 +1860,14 @@
                 "id": "42779f42-afee-485a-92ea-a8455381da8c",
                 "resourcePath": "datafiles_yy\\TweenGMS\\Update Log.txt.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e6212b21-c5b2-4865-8bf9-68e014eba685",
+            "Value": {
+                "id": "5d61404c-6821-457d-91a8-519a1d277049",
+                "resourcePath": "sprites\\spr_patch\\spr_patch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
