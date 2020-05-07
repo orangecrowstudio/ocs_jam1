@@ -18,6 +18,11 @@ haveO2 = false;
 o2jmp = 9;
 
 
+//speed zone vars
+spdZone = 15;
+zoneUsed = false;
+zoneCheck = true;
+stopped = false;
 
 
 

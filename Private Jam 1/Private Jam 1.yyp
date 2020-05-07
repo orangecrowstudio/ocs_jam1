@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "5247c6c2-4323-4e99-9c69-4544aad33900",
+            "Value": {
+                "id": "946518c9-0cc9-4f62-9bc4-2e063d374f09",
+                "resourcePath": "sprites\\spr_speedZone\\spr_speedZone.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "52abd4d1-757d-4f48-b85b-76b87e856696",
             "Value": {
                 "id": "dc394d9a-306a-436f-ba75-c9746f18bc3c",
@@ -1380,6 +1388,14 @@
                 "id": "0ea6ff3d-d28e-493a-b4c6-0cb734ddde0f",
                 "resourcePath": "scripts\\EaseInBounce\\EaseInBounce.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "aea0417b-1cb1-44a1-a235-ea076a736186",
+            "Value": {
+                "id": "ebecebac-fb4b-4ba2-bc96-23f19b224808",
+                "resourcePath": "objects\\obj_speedZone\\obj_speedZone.yy",
+                "resourceType": "GMObject"
             }
         },
         {

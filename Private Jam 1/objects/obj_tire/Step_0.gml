@@ -32,9 +32,11 @@ if haveO2 {
 	canJump -= 1;
 	if canJump > 0 and key_space {
 		//if haveO2 {TweenEasyRotate(0, -360, 0, 60, EaseInOutQuad);}
-		vsp = -jmpstat;
-		canJump = 0;
-		haveO2 = false;
+		if !stopped {
+			vsp = -jmpstat;
+			canJump = 0;
+			haveO2 = false;
+		}
 	}
 
 	if place_meeting(x, y+1, obj_wall) {
@@ -72,10 +74,21 @@ if haveO2 {
 	}
 	y = y + vsp;
 	if go {
-	//Constant forward
-		x = x + hsp;
+	
+		if !stopped {
+			//Speed Zone Check
+			if zoneUsed {
+				x = x + spdZone;
+				if zoneCheck {
+					zoneCheck = false;
+					alarm_set(0,60);
+				}
+			}else x = x + hsp; //Constant forward
+		}
 	}
 //}
+
+
 
 #endregion
 
