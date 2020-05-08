@@ -2,7 +2,8 @@
 // You can write your code in this editor
 
 //animation states
-//idle = image_index = 1;
+moveLeft = false;
+moveRight = false;
 
 go = false;
 

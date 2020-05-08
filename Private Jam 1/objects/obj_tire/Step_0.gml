@@ -29,6 +29,29 @@
 	if !go {hsp = move * walksp;}
 	vsp = vsp + grv;
 	
+	
+	//animation
+if !go {
+	if key_left {
+		image_speed = 1;
+		image_xscale = -1;
+	}else if key_right {
+		image_speed = 1;
+		image_xscale = 1;
+	}else image_speed = 0;
+}
+
+if go {
+	if hsp > 0 {
+		image_speed = 1;
+	} else image_speed = 0;
+}
+
+	//key_left = keyboard_check(vk_left);
+	//key_right = keyboard_check(vk_right);
+	//key_space = keyboard_check_pressed(vk_space);
+	//key_space_held = keyboard_check(vk_space);
+	
 //MOVEMENT
 	vsp = vsp + grv;
 
@@ -53,6 +76,7 @@ if spikeHit {
 	if canJump > 0 and key_space {
 		//if haveO2 {TweenEasyRotate(0, -360, 0, 60, EaseInOutQuad);}
 		if !stopped {
+			audio_play_sound(snd_jump, 1, false);
 			vsp = -jmpstat;
 			canJump = 0;
 			haveO2 = false;

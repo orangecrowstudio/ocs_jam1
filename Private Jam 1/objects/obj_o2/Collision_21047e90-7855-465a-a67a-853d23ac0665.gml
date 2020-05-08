@@ -4,4 +4,5 @@
 //	TweenEasyScale(1, 1, 1.5, 1.5, 0, 10, EaseInOutQuad,TWEEN_MODE_BOUNCE);
 //}
 other.haveO2 = true;
+audio_play_sound(snd_air, 1, false);
 instance_destroy();

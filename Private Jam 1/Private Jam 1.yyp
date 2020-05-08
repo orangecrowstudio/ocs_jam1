@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "26b8d940-0892-4ae0-8aa1-1b5a6948dabd",
+            "Value": {
+                "id": "eb69afa7-d9bc-4a2c-9b00-bb06f8ed5d25",
+                "resourcePath": "sprites\\spr_arrow\\spr_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "26d002a9-503b-4319-9bca-4b52b3c82f55",
             "Value": {
                 "id": "3e29a95a-1df3-486b-be94-d6124430fdf4",
@@ -324,6 +332,14 @@
                 "id": "15cd3266-786f-4647-bbb8-280b0b6ad1d6",
                 "resourcePath": "scripts\\TweenCalcTime\\TweenCalcTime.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2a38e76c-c3c5-4b2a-83fb-eb6917a2b73d",
+            "Value": {
+                "id": "1660d5fd-4b91-4a13-bd07-889086521858",
+                "resourcePath": "sounds\\snd_patch\\snd_patch.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -471,6 +487,14 @@
             }
         },
         {
+            "Key": "42524891-305c-47a0-9d4f-8ec603ac048d",
+            "Value": {
+                "id": "aeb1666b-948e-4106-aa76-f9a5d9dd3f9c",
+                "resourcePath": "sounds\\snd_music\\snd_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4375c486-d947-4a17-8abd-683f899c0ce7",
             "Value": {
                 "id": "9e67b657-ec72-46a0-9787-28361c6ef242",
@@ -540,6 +564,14 @@
                 "id": "fc32ecef-6ac3-4557-9af5-bd5b26118896",
                 "resourcePath": "scripts\\SharedTweenerActivate\\SharedTweenerActivate.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4cc4c61b-56e2-4fce-8178-62f852de74df",
+            "Value": {
+                "id": "3e771de7-e956-44a4-8f95-8afc974963fc",
+                "resourcePath": "sounds\\snd_jump\\snd_jump.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1175,6 +1207,14 @@
             }
         },
         {
+            "Key": "85d478d3-dad3-42d3-aad0-642d6f6e01df",
+            "Value": {
+                "id": "99abc197-627c-4e64-9260-749d4ce3b4d2",
+                "resourcePath": "sounds\\snd_carTakeOff\\snd_carTakeOff.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "86df8472-5d5d-4869-a7fa-4ce1ed6de5ba",
             "Value": {
                 "id": "3d2ea3b0-3806-4987-bb6c-104f39aafa99",
@@ -1212,6 +1252,14 @@
                 "id": "3f87e2de-d629-42e7-8127-26f27dc27f13",
                 "resourcePath": "scripts\\EaseOutQuint\\EaseOutQuint.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "899c860a-fdc5-4ce1-83bb-194d7339f412",
+            "Value": {
+                "id": "9e79afd1-573e-4db5-89ce-184c9d18e130",
+                "resourcePath": "sounds\\snd_tireFlat\\snd_tireFlat.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1487,6 +1535,14 @@
             }
         },
         {
+            "Key": "aa44df4e-14e2-490e-95b6-608c47caf4c7",
+            "Value": {
+                "id": "fffba1c7-8829-433a-b375-a9dab0c88425",
+                "resourcePath": "sounds\\snd_flat\\snd_flat.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "aad2b7d3-0f43-459a-ad43-92f66c6f018b",
             "Value": {
                 "id": "9052ce09-3e8a-4a99-801a-03e727e6bb48",
@@ -1572,6 +1628,14 @@
                 "id": "243e9303-dfc2-4ca1-88eb-0300f132473a",
                 "resourcePath": "scripts\\EaseOutCirc\\EaseOutCirc.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b473dfc2-8aa5-4255-9f16-632bfeb59d4b",
+            "Value": {
+                "id": "05e568ea-e8db-426b-87e5-493d64370875",
+                "resourcePath": "sounds\\snd_air\\snd_air.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1756,6 +1820,14 @@
                 "id": "42bedcb0-9685-480f-990d-1ddd4b38f3bd",
                 "resourcePath": "scripts\\EaseLinear\\EaseLinear.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cbfe3028-d3ca-48c9-a659-5ed4616c2159",
+            "Value": {
+                "id": "74b07006-732f-45b3-a08a-d18d72dd4541",
+                "resourcePath": "sounds\\snd_tireWrench\\snd_tireWrench.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1999,11 +2071,27 @@
             }
         },
         {
+            "Key": "e8f37c43-c992-422a-8c26-77aca6e382da",
+            "Value": {
+                "id": "437193c7-1e3a-49d6-ae75-cec6033ab354",
+                "resourcePath": "objects\\obj_arrow\\obj_arrow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e99644a2-24a6-40cc-9159-1ed762fbaafd",
             "Value": {
                 "id": "882bbf25-e85d-4343-8278-c565027410da",
                 "resourcePath": "sprites\\spr_tire2\\spr_tire2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb193b91-48f8-4732-ac4a-2d2b538f01cf",
+            "Value": {
+                "id": "541ec8b8-3a8e-4fe6-b366-1141a52707cb",
+                "resourcePath": "sounds\\snd_speedZoneCharge\\snd_speedZoneCharge.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -2060,6 +2148,14 @@
                 "id": "43875a2e-dade-4eda-8619-b1296fc808b2",
                 "resourcePath": "views\\f364873a-1950-4ca2-abef-189de1eb098f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3724aa5-eb47-457e-8051-51883a0bd298",
+            "Value": {
+                "id": "f42ed00a-f2a6-47fd-bfa5-2248fc229866",
+                "resourcePath": "sounds\\snd_speedZoneRelease\\snd_speedZoneRelease.yy",
+                "resourceType": "GMSound"
             }
         },
         {
