@@ -157,9 +157,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90104167"
-     inkscape:cx="1570.1017"
-     inkscape:cy="717.88923"
+     inkscape:zoom="2.5485307"
+     inkscape:cx="1763.8484"
+     inkscape:cy="1243.1934"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -194,12 +194,12 @@
        x="551.64429"
        y="-84.126343" />
     <rect
-       style="opacity:0;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.3656249;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.18281247, 2.18281247000000000;stroke-dashoffset:0;stroke-opacity:0.43961355"
+       style="opacity:0.50700001;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.8815012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.94075066, 2.94075066;stroke-dashoffset:0;stroke-opacity:0.43961355"
        id="rect1750"
        width="16.933332"
-       height="16.933332"
-       x="441.99698"
-       y="53.784729"
+       height="30.734488"
+       x="415.86285"
+       y="58.04253"
        inkscape:export-filename="H:\OrangeCrowStudios\ocs_jam1\Art\Evan\Exports\spr_playerTire.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -1865,7 +1865,10 @@
        y="33.771889" />
     <g
        id="g1125"
-       transform="matrix(0.49883451,0,0,0.49883451,178.30353,24.770237)">
+       transform="matrix(0.49883451,0,0,0.49883451,178.30353,24.770237)"
+       inkscape:export-filename="H:\OrangeCrowStudios\ocs_jam1\Art\Evan\Exports\spr_patch.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          sodipodi:nodetypes="cacac"
          inkscape:connector-curvature="0"
@@ -2123,7 +2126,7 @@ UDgMJcwKhULhMJQwKxQKhcP4/9Ptn4+F159GAAAAAElFTkSuQmCC
        width="94.720833" />
     <g
        id="g1212"
-       transform="matrix(-1.0103988,0,0,1.0103988,617.68638,126.74775)">
+       transform="matrix(-1.0103988,0,0,1.0103988,632.36846,145.54081)">
       <path
          inkscape:connector-curvature="0"
          id="path1138"
@@ -2215,12 +2218,12 @@ UDgMJcwKhULhMJQwKxQKhcP4/9Ptn4+F159GAAAAAElFTkSuQmCC
     <rect
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="H:\OrangeCrowStudios\ocs_jam1\Art\Evan\Exports\spr_npcTire3.png"
-       style="opacity:0;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.1395359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.56976826, 6.56976826000000003;stroke-dashoffset:0;stroke-opacity:0.43961355"
+       inkscape:export-filename="H:\OrangeCrowStudios\ocs_jam1\Art\Evan\Exports\spr_raceCar.png"
+       style="opacity:0;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.1395359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.56976826, 6.56976826;stroke-dashoffset:0;stroke-opacity:0.43961355"
        id="rect1214"
        width="83.130898"
        height="31.245659"
-       x="436.35193"
-       y="50.539101" />
+       x="451.034"
+       y="69.332161" />
   </g>
 </svg>
