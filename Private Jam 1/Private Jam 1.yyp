@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "213262bd-f164-4cf8-80be-5f8fcccd4320",
+            "Value": {
+                "id": "0f35e920-9f94-4e3b-bba3-d8cb8afb38b1",
+                "resourcePath": "sprites\\spr_car\\spr_car.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2590ebb0-656f-4ce0-b4d8-2c03f71d1fc9",
             "Value": {
                 "id": "384a6cf5-559d-4913-833e-f522514c8f3f",
@@ -380,6 +388,14 @@
                 "id": "d38d2518-ba4d-43b3-bcf4-0843b93ed923",
                 "resourcePath": "views\\34a0231e-0514-44fa-a4a2-93278b495312.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35182a11-53ff-4ba6-8142-5ba18eddbbe2",
+            "Value": {
+                "id": "525fcaff-7c9f-4325-b6d3-852c6f40c769",
+                "resourcePath": "objects\\obj_movingSpikes\\obj_movingSpikes.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -543,6 +559,14 @@
             }
         },
         {
+            "Key": "4e5e99e0-ccc1-4133-b49e-dbecbe415e01",
+            "Value": {
+                "id": "0257962f-4839-4b8e-a88f-8af3b017a051",
+                "resourcePath": "sprites\\bak_cityFrontBuildingsOld\\bak_cityFrontBuildingsOld.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e7cf76e-c96f-48e5-9713-d6d1d482cecf",
             "Value": {
                 "id": "c345f3cc-4f1a-47fd-9fd2-8807d9b09a51",
@@ -607,6 +631,14 @@
             }
         },
         {
+            "Key": "51e42269-b6de-4db2-9f90-f8b939978921",
+            "Value": {
+                "id": "305aa25c-2eb3-4b46-bd70-8174d4ccd07b",
+                "resourcePath": "objects\\obj_car\\obj_car.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5247c6c2-4323-4e99-9c69-4544aad33900",
             "Value": {
                 "id": "946518c9-0cc9-4f62-9bc4-2e063d374f09",
@@ -660,6 +692,14 @@
                 "id": "5185b744-cce2-44e4-b4d6-51f4d0f81427",
                 "resourcePath": "views\\55c82fa9-f7f4-4aea-910c-6cdd46ee4a61.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "56283477-d2d4-45af-bfb7-11c499756b2b",
+            "Value": {
+                "id": "5a727366-ea64-4702-8fb6-7078abfc03c7",
+                "resourcePath": "sprites\\spr_tire1\\spr_tire1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -871,6 +911,14 @@
             }
         },
         {
+            "Key": "67df5331-d19f-464a-8746-81f99d1353be",
+            "Value": {
+                "id": "16c5fc2b-0863-484c-a2d3-2e706ea9098f",
+                "resourcePath": "sprites\\bak_cityClouds\\bak_cityClouds.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "68275771-4f7a-4d1c-b287-cb5b814d1fca",
             "Value": {
                 "id": "02e04900-74e4-4458-b13d-cccdaeeba199",
@@ -991,6 +1039,14 @@
             }
         },
         {
+            "Key": "7a3f4c8a-bfca-41f4-96ca-73cca69276b8",
+            "Value": {
+                "id": "9d70f00d-355e-4b13-a9b9-621b1c7cb057",
+                "resourcePath": "sprites\\bak_cityFog\\bak_cityFog.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7a9a5671-f15b-4eed-b920-c36951096a11",
             "Value": {
                 "id": "60ecc043-88e3-40d0-9673-edd3788e9e89",
@@ -1023,6 +1079,14 @@
             }
         },
         {
+            "Key": "7ef85c0e-1f30-4fae-b50d-30d14d34cde9",
+            "Value": {
+                "id": "5360d5ad-1980-4b33-abda-da3666b79053",
+                "resourcePath": "sprites\\spr_tire3\\spr_tire3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f2aa524-8827-45eb-a5d4-2dbe9031fb29",
             "Value": {
                 "id": "48c1b0d1-b8e8-4f93-8ade-4425b005cb39",
@@ -1052,6 +1116,14 @@
                 "id": "ca99f28a-e59e-47f9-a561-aab3b7c4923d",
                 "resourcePath": "scripts\\path_speed__\\path_speed__.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "80f152b8-be66-4779-a15a-9a41c09c032d",
+            "Value": {
+                "id": "5060b202-6ab8-4855-90df-d386320fab52",
+                "resourcePath": "objects\\obj_tire3\\obj_tire3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1223,6 +1295,14 @@
             }
         },
         {
+            "Key": "928e030c-4750-4bed-a764-6ed3f0adf87e",
+            "Value": {
+                "id": "8df58389-35c2-4bc3-9cd5-5af06c1abe8d",
+                "resourcePath": "views\\928e030c-4750-4bed-a764-6ed3f0adf87e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "93a62eca-e877-4afa-b966-b6963f1f53dc",
             "Value": {
                 "id": "e9e7ac2f-da80-41cd-a05e-d6b02f7c3ea2",
@@ -1244,6 +1324,14 @@
                 "id": "ab056266-265b-4b5b-8c5d-64a836304132",
                 "resourcePath": "views\\969dc6fc-5d00-42f6-94a2-5f686f881066.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "99174061-9541-41de-94ea-487a545ed32d",
+            "Value": {
+                "id": "655e1086-a193-4109-b9f2-efd00b4a5539",
+                "resourcePath": "objects\\obj_tire2\\obj_tire2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1387,6 +1475,22 @@
             "Value": {
                 "id": "5b0c3bfc-2b26-44ec-be5d-0c41af6c275d",
                 "resourcePath": "views\\a97fa47a-d195-417d-8b9b-847be2e384b1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9eb7351-31fa-4c65-b844-21102a9e5262",
+            "Value": {
+                "id": "053c4b3a-8945-4e5a-8d90-09f26f0824bc",
+                "resourcePath": "sprites\\bak_cityHardback\\bak_cityHardback.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aad2b7d3-0f43-459a-ad43-92f66c6f018b",
+            "Value": {
+                "id": "9052ce09-3e8a-4a99-801a-03e727e6bb48",
+                "resourcePath": "views\\aad2b7d3-0f43-459a-ad43-92f66c6f018b.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1863,6 +1967,14 @@
             }
         },
         {
+            "Key": "e5886ce0-5af2-4582-8286-2ad2956f698b",
+            "Value": {
+                "id": "ec82f2fe-9e8f-4429-a4c5-a7bc773a5984",
+                "resourcePath": "sprites\\spr_frontFog\\spr_frontFog.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e6212b21-c5b2-4865-8bf9-68e014eba685",
             "Value": {
                 "id": "5d61404c-6821-457d-91a8-519a1d277049",
@@ -1884,6 +1996,14 @@
                 "id": "26180872-c209-4ac0-9bcf-638937896406",
                 "resourcePath": "scripts\\TGMS_TweenCreate\\TGMS_TweenCreate.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e99644a2-24a6-40cc-9159-1ed762fbaafd",
+            "Value": {
+                "id": "882bbf25-e85d-4343-8278-c565027410da",
+                "resourcePath": "sprites\\spr_tire2\\spr_tire2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1975,6 +2095,14 @@
             }
         },
         {
+            "Key": "f5fadea4-21da-4b94-9e9a-dd03b6399b78",
+            "Value": {
+                "id": "6a09864c-37e7-476a-821d-c71b19f2c861",
+                "resourcePath": "objects\\obj_tire1\\obj_tire1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f60865ac-4828-48c6-a7c9-e1a250f6f19d",
             "Value": {
                 "id": "9fbc9064-fa7d-45ee-a58d-431b4450aca9",
@@ -2036,6 +2164,14 @@
                 "id": "59e0fd41-c331-4373-886e-d1862604b9ad",
                 "resourcePath": "views\\f7fa3ccc-cdf2-4e83-9581-e55ad24a0125.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f932828d-70f6-4ee8-833d-08652c717cef",
+            "Value": {
+                "id": "47dbb71c-9a93-4fba-a235-910da97d7d1f",
+                "resourcePath": "sprites\\bak_cityFrontBuildings\\bak_cityFrontBuildings.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

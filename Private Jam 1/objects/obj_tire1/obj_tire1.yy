@@ -1,34 +1,24 @@
 {
-    "id": "751042a9-fb64-4040-828f-5de791b0c635",
+    "id": "f5fadea4-21da-4b94-9e9a-dd03b6399b78",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game",
+    "name": "obj_tire1",
     "eventList": [
         {
-            "id": "b6c8e928-1720-4e93-9ff0-bf1abac11f59",
+            "id": "6a5934b4-df85-4a83-a397-b58d2dcbc857",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "751042a9-fb64-4040-828f-5de791b0c635"
-        },
-        {
-            "id": "4b781246-05f2-4438-a9a8-73e1c0a05992",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "751042a9-fb64-4040-828f-5de791b0c635"
+            "m_owner": "f5fadea4-21da-4b94-9e9a-dd03b6399b78"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": true,
+    "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "56283477-d2d4-45af-bfb7-11c499756b2b",
     "visible": true
 }
