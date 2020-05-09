@@ -8,10 +8,12 @@
         "67df5331-d19f-464a-8746-81f99d1353be",
         "7a3f4c8a-bfca-41f4-96ca-73cca69276b8",
         "4e5e99e0-ccc1-4133-b49e-dbecbe415e01",
-        "f932828d-70f6-4ee8-833d-08652c717cef"
+        "f932828d-70f6-4ee8-833d-08652c717cef",
+        "dbe65930-b3cc-46d4-bfc3-af925e281932",
+        "e5886ce0-5af2-4582-8286-2ad2956f698b"
     ],
     "filterType": "GMSprite",
-    "folderName": "Background",
+    "folderName": "BACKGROUND",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

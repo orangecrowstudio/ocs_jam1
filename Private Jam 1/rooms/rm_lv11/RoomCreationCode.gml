@@ -1,0 +1,1 @@
+global.lv1Tutorial = true;

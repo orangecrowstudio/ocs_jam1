@@ -4,8 +4,8 @@
 #region //If round has started//
 
 //if go {
-	key_left = keyboard_check(vk_left);
-	key_right = keyboard_check(vk_right);
+	key_left = keyboard_check(ord("A"));
+	key_right = keyboard_check(ord("D"));
 	key_space = keyboard_check_pressed(vk_space);
 	key_space_held = keyboard_check(vk_space);
 	
@@ -195,5 +195,18 @@ if spikeHit {
 
 //	y = y + vsp;
 //}
+
+#endregion
+
+
+
+#region //Tutorial Info
+
+////Intro
+//if introDoneCheck {
+//	instance_create_layer(x, y )
+
+
+
 
 #endregion
