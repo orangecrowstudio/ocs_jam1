@@ -1471,6 +1471,14 @@
             }
         },
         {
+            "Key": "8a3288bd-3167-4a11-85dc-a2cb2cc52397",
+            "Value": {
+                "id": "4f83d317-8a7e-4371-b2d4-7bf26639bcf5",
+                "resourcePath": "rooms\\rm_lv4E\\rm_lv4E.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8a47b4db-505a-4dd5-81f4-f57a19c32aed",
             "Value": {
                 "id": "20973ae3-c287-4983-af14-dd5f79481cb7",
@@ -1700,6 +1708,14 @@
                 "id": "2df0908a-a9ff-454e-a887-e91eda913963",
                 "resourcePath": "scripts\\TweenFireTo\\TweenFireTo.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a33f51c4-2fa9-476c-a887-dc71344cda0f",
+            "Value": {
+                "id": "07a08ada-3963-4f26-b19f-95c7bc1f4567",
+                "resourcePath": "rooms\\rm_lv5E\\rm_lv5E.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
