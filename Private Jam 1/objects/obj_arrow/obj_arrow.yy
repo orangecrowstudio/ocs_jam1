@@ -64,7 +64,21 @@
             "resourceFilter": 1023,
             "value": "1",
             "varName": "image_index",
-            "varType": 0
+            "varType": 1
+        },
+        {
+            "id": "073d24b0-df79-4577-a85c-dc3ecbb4f88d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "First",
+            "varName": "arrowNum",
+            "varType": 2
         }
     ],
     "solid": false,

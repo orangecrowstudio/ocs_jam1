@@ -49,35 +49,39 @@ if global.quickMode {
 
 
 //tutorial
+if global.currentLv == "1" {
+	
+	introTutorialStart = false;
+	introTutorial = false;
+	introTutorial2 = false;
+	introTutorial3 = false;
+	introDoneCheck = false;
+	alarm_set(1,120);
+	aSet = true;
 
-introTutorialStart = false;
-introTutorial = false;
-introTutorial2 = false;
-introTutorial3 = false;
-introDoneCheck = false;
-alarm_set(1,120);
-aSet = true;
 
+	//first pump
+	introTutorialPump = false;
+	introTutorialPump2 = false;
 
-//first pump
-introTutorialPump = false;
-introTutorialPump2 = false;
-
-firstPump = false;
-if global.lv1Tutorial {
+	//firstPump = false;
+	//if global.lv1Tutorial {
+	//	firstPump = true;
+	//}
+	
 	firstPump = true;
-}
 
-//see tire 1
-introTutorialTire = false;
-introTutorialTire2 = false;
+	//see tire 1
+	introTutorialTire = false;
+	introTutorialTire2 = false;
 
-seeTire1 = false;
-if global.lv1Tutorial {
 	seeTire1 = true;
 }
+//tireDoneCheck = false;
 
-
+//if global.currentLv == 1{
+	//seeTire1 = true;
+//}
 
 
 
