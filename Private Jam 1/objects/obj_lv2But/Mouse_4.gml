@@ -3,4 +3,4 @@
 if global.quickMode = false {
 	global.levelsUnlocked = 2;
 }
-room_goto(rm_lv12);
+room_goto(rm_lv12D);

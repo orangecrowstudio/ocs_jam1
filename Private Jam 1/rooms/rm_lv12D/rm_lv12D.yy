@@ -1,6 +1,6 @@
 
 {
-    "name": "rm_lv12",
+    "name": "rm_lv12D",
     "id": "a9af504f-e298-411d-b42d-583bfb56d1d6",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
