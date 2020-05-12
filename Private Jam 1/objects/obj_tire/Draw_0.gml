@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if global.currentLv == "1" {
-//Intro
+//Intro lv 1
 	if introTutorialStart {
 		draw_set_halign(fa_center);
 		draw_text(x, y - 96, "Hello!");
@@ -84,6 +84,42 @@ if global.currentLv == "1" {
 	}
 }
 
+//Tutorial lv2//
 
 
+if global.currentLv == "2" {
+	if level2Tutorial {
+		draw_set_halign(fa_center);
+		draw_text(x, y - 96, "Spikes! We'll have to patch\nthis up to keep going.");
+		if aSet {
+			aSet = false;
+			alarm_set(2,180);
+		}
+	}
+	
+	if level2Tutorial2 {
+		draw_set_halign(fa_center);
+		draw_text(x, y - 96, "These dudes will kill ya!\nDon't fuck this up!");
+		if aSet {
+			aSet = false;
+			alarm_set(2,180);
+		}
+	}
+}
+
+//Tutorial lv3//
+
+if global.currentLv == "3" {
+	if level3Tutorial {
+		draw_set_halign(fa_center);
+		draw_text(x, y - 96, "Press and release the " + string("SPACE BAR") + "\nwhile within a Speed Trap!");
+		if aSet {
+			aSet = false;
+			alarm_set(2,180);
+		}
+	}
+}
+
+
+//Draw Sprite
 draw_self();

@@ -4,3 +4,8 @@
 if global.currentLv == "1" {
 	introTutorialStart = true;
 }
+
+
+//if global.currentLv == "2" {
+//	level2Tutorial = true;
+//}

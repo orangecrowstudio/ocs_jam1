@@ -8,31 +8,41 @@
 //Current Level Change//
 
 if global.currentLv == "1" {
-	global.currentLv = "2";
+	//room_goto(rm_lv12D);
+	global.level2 = true;
+	//global.currentLv = "2";
 }
 if global.currentLv == "2" {
-	global.currentLv = "3";
+	global.level3 = true;
+	//global.currentLv = "3";
 }
 if global.currentLv == "3" {
-	global.currentLv = "4";
+	global.level4 = true;
+	//global.currentLv = "4";
 }
 if global.currentLv == "4" {
-	global.currentLv = "5";
+	global.level5 = true;
+	//global.currentLv = "5";
 }
 if global.currentLv == "5" {
-	global.currentLv = "6";
+	global.level6 = true;
+	//global.currentLv = "6";
 }
 if global.currentLv == "6" {
-	global.currentLv = "7";
+	global.level7 = true;
+	//global.currentLv = "7";
 }
 if global.currentLv == "7" {
-	global.currentLv = "8";
+	global.level8 = true;
+	//global.currentLv = "8";
 }
 if global.currentLv == "8" {
-	global.currentLv = "9";
+	global.level9 = true;
+	//global.currentLv = "9";
 }
 if global.currentLv == "9" {
-	global.currentLv = "10";
+	global.level10 = true;
+	//global.currentLv = "10";
 }
 
 room_goto_next();

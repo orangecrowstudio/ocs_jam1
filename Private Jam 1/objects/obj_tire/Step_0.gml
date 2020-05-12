@@ -162,7 +162,8 @@ if spikeHit {
 			if !stopped {
 				//Speed Zone Check
 				if zoneUsed {
-					x = x + spdZone;
+					if place_free(x+1,y){
+					x = x + spdZone;} else x = x;
 					if zoneCheck {
 						zoneCheck = false;
 						alarm_set(0,60);
@@ -178,7 +179,8 @@ if !go {
 		if !stopped {
 			//Speed Zone Check
 			if zoneUsed {
-				x = x + spdZone;
+				if place_free(x+12,y){
+					x = x + spdZone;} else x = x;
 				if zoneCheck {
 					zoneCheck = false;
 					alarm_set(0,60);

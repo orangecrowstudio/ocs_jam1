@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_lv4But",
     "eventList": [
-        
+        {
+            "id": "c75e9d6c-5aca-4733-b956-8ff2427a9c0b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "c269adac-0460-418e-8eec-eb3834ddbc77"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-if global.level2 {
-	room_goto(rm_lv12D);
-}
+if global.level8 {
+	image_alpha = 1;
+}else image_alpha = 0.4;

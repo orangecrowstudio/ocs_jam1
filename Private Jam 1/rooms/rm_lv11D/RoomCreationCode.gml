@@ -1,0 +1,1 @@
+global.currentLv = "1";
