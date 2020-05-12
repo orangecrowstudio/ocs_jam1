@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "37428e14-7404-4cce-b1ce-f49b20564d9f",
+            "Value": {
+                "id": "26c1854d-33e2-47d9-acac-f14f165069b4",
+                "resourcePath": "rooms\\rm_lv6E\\rm_lv6E.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "37f70332-5171-41ac-8cc7-a264718f177d",
             "Value": {
                 "id": "d753deb7-891e-47f6-986b-65d57ed76857",
@@ -1700,6 +1708,14 @@
                 "id": "b5bab992-5221-46fc-b9a5-ef2911856ffe",
                 "resourcePath": "scripts\\TweenForcePropertyUpdate\\TweenForcePropertyUpdate.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a2c386bf-1596-404b-b883-5a2d8babc986",
+            "Value": {
+                "id": "2055b35f-903d-4f8a-b8b3-86788c19733b",
+                "resourcePath": "rooms\\rm_lv7E\\rm_lv7E.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
