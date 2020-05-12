@@ -171,6 +171,22 @@ if spikeHit {
 			}
 		}else x = x + spikeSpd; //Speed after hitting spikes
 	}
+if !go {
+	
+	if !spikeHit {
+		walksp = 6
+		if !stopped {
+			//Speed Zone Check
+			if zoneUsed {
+				x = x + spdZone;
+				if zoneCheck {
+					zoneCheck = false;
+					alarm_set(0,60);
+				}
+			}//else x = x + hsp; //Constant forward
+		}
+	}else walksp = spikeSpd; //Speed after hitting spikes
+}
 //}
 
 
