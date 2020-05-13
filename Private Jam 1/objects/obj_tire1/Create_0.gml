@@ -9,3 +9,8 @@ if global.currentLv != "1" {
 
 
 introLeave = false
+
+
+
+global.lastLvStart = false;
+global.lastLvEnd = false;

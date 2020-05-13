@@ -8,8 +8,8 @@ if global.currentLv == "1" {
 		draw_text(x, y - 96, "Hello!");
 		if aSet {
 			aSet = false;
-			//alarm_set(2,120);
-			alarm_set(2,60);
+			alarm_set(2,120);
+			//alarm_set(2,60);
 		}
 	}
 
@@ -18,8 +18,8 @@ if global.currentLv == "1" {
 		draw_text(x, y - 96, "My name is Robert\nand I've lost my three friends.");
 		if aSet {
 			aSet = false;
-			//alarm_set(2,180);
-			alarm_set(2,60);
+			alarm_set(2,180);
+			//alarm_set(2,60);
 		}
 	}
 
@@ -28,8 +28,8 @@ if global.currentLv == "1" {
 		draw_text(x, y - 96, "Can you help me find them?");
 		if aSet {
 			aSet = false;
-			//alarm_set(2,180);
-			alarm_set(2,60);
+			alarm_set(2,180);
+			//alarm_set(2,60);
 		}
 	}
 
@@ -38,8 +38,8 @@ if global.currentLv == "1" {
 		draw_text(x, y - 96, "We have an important race\ncoming up that we can't be late for!");
 		if aSet {
 			aSet = false;
-			//alarm_set(2,240);
-			alarm_set(2,60);
+			alarm_set(2,240);
+			//alarm_set(2,60);
 		}
 	}
 
@@ -93,16 +93,16 @@ if global.currentLv == "2" {
 		draw_text(x, y - 96, "Spikes! We'll have to patch\nthis up to keep going.");
 		if aSet {
 			aSet = false;
-			alarm_set(2,180);
+			alarm_set(2,220);
 		}
 	}
 	
 	if level2Tutorial2 {
 		draw_set_halign(fa_center);
-		draw_text(x, y - 96, "These dudes will kill ya!\nDon't fuck this up!");
+		draw_text(x, y - 96, "Careful! There's no walking away from those!");
 		if aSet {
 			aSet = false;
-			alarm_set(2,180);
+			alarm_set(2,220);
 		}
 	}
 }

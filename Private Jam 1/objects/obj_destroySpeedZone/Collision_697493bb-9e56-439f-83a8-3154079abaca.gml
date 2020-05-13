@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-//x = xstart;
-//y = ystart;
-//draw_self();
+with obj_speedZone {
+	if destroy {
+		instance_destroy()
+	}
+}

@@ -27,3 +27,8 @@ if global.currentLv == "3" {
 		other.level3Tutorial = true;
 	}
 }
+
+if global.currentLv == "10" {
+	global.lastLvStart = true;
+	instance_destroy();
+}

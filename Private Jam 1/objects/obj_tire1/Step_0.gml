@@ -7,6 +7,8 @@ if introLeave {
 	alarm_set(0,30);
 }
 
-if place_free(x, y + 1) {
-	y -= 5;
+if global.currentLv == "1" {
+		if place_free(x, y + 1) {
+		y -= 5;
+	}
 }

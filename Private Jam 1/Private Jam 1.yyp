@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "23c042c0-0149-451a-8c6d-261769312c9f",
+            "Value": {
+                "id": "3d809118-35a9-4e42-92ae-919e96305101",
+                "resourcePath": "objects\\obj_stop\\obj_stop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25315b41-d32f-4bc0-bcba-e4ac780fce49",
             "Value": {
                 "id": "6389267d-0b63-4ea9-a0d5-f72e77196096",
@@ -887,6 +895,14 @@
             }
         },
         {
+            "Key": "566d58c8-15c8-44b2-86bf-105cf029b57b",
+            "Value": {
+                "id": "008eaf34-ebca-4a40-a1e2-76e2ee1691d4",
+                "resourcePath": "objects\\obj_credits\\obj_credits.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5687b76e-3e6d-426d-82da-740fbc3f1acc",
             "Value": {
                 "id": "782db059-6282-4133-85ae-8491244bf9a6",
@@ -980,6 +996,14 @@
                 "id": "caed8ccf-1bb2-466c-82ac-66654bdaa7bf",
                 "resourcePath": "scripts\\TweenSystemGet\\TweenSystemGet.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5c454ac2-3932-4865-ad5d-e353eb4a882a",
+            "Value": {
+                "id": "c5871f4e-4cbe-43bf-9136-8de9863d2a69",
+                "resourcePath": "objects\\obj_outro\\obj_outro.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2287,6 +2311,14 @@
             }
         },
         {
+            "Key": "d9b6d7a3-c275-4d99-a523-194f8a7a06ad",
+            "Value": {
+                "id": "334ad8b7-68a5-45d1-a0f7-1f8fd67d7673",
+                "resourcePath": "objects\\obj_destroySpeedZone\\obj_destroySpeedZone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "da55deb6-0ba7-47a1-804d-2e3e36b1ca32",
             "Value": {
                 "id": "f66a2415-f67b-41e4-a01a-a123d7e85029",
@@ -2500,6 +2532,14 @@
                 "id": "127cb006-24fc-4da1-b6c1-75ef8161bdbd",
                 "resourcePath": "sprites\\spr_quitBut\\spr_quitBut.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ecd2ca15-3bc9-4dea-8624-37c23e4e644f",
+            "Value": {
+                "id": "d752316f-1864-4df3-9fdc-e9f66589e14a",
+                "resourcePath": "rooms\\rm_testLv\\rm_testLv.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
