@@ -1,1 +1,1 @@
-global.currentLv ="5";
+global.currentLv ="7";

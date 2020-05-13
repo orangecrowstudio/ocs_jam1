@@ -18,3 +18,5 @@ room_goto(rm_lv11D);
 //room_goto(rm_lv5E);
 //room_goto(rm_lv6E);
 //room_goto(rm_lv7E);
+room_goto(rm_lv8D);
+//room_goto(rm_lv7E);

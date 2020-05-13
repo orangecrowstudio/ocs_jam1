@@ -8,7 +8,7 @@ with other {
 }
 
 if stopCheck {
-	audio_play_sound(snd_speedZoneCharge, 1, false);
+	audio_play_sound(snd_speedZoneCharge, 1, true);
 	stopCheck = false;
 	alarm_set(0,60);
 }

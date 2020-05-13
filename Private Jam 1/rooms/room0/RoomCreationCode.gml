@@ -1,1 +1,1 @@
-global.lv1Tutorial = false;
+global.currentLv = "10";
