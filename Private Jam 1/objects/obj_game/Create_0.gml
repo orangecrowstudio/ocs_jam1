@@ -8,6 +8,9 @@ global.quickMode = false;
 //levels
 global.levelsUnlocked = 1;
 
+//within level
+global.withinLv = false;
+//endCheck = false;
 
 
 global.lv1Tutorial = true; 
